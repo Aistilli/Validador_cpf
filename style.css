@@ -1,0 +1,12 @@
+.formulario {
+  margin-top: 5%;
+}
+
+.sucesso,
+.erro {
+  display: none;
+}
+
+.mensagem {
+  display: block !important;
+}
